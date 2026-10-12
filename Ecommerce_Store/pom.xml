@@ -11,7 +11,7 @@
 		<relativePath />
 	</parent>
 
-	<groupId>com.mdtalalwasim.ecommerce</groupId>
+	<groupId>com.ecom.ecommerce</groupId>
 	<artifactId>Ecommerce_Store</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>Ecommerce_Store</name>
